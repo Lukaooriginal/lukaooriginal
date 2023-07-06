@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do lukaooriginal 😁
+## Bem-vindo(a) ao perfil do lukaooriginal iniciante em programacao. 😁
 
  <div>
    <a href="https://github.com/lukaooriginal">
